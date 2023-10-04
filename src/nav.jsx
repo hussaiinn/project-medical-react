@@ -21,7 +21,7 @@ export default function Navbar() {
                                 <a className="nav-link nav-text-us" href="#">Medicine</a>
                             </li>
                             <li className="nav-item nav-item-us">
-                                <a className="nav-link nav-text-us" href="#">My News</a>
+                                <a className="nav-link nav-text-us" href="#">My News channel</a>
                             </li>
                             <li className="nav-item nav-item-us">
                                 <a className="nav-link nav-text-us" href="#">Video Consultant</a>
