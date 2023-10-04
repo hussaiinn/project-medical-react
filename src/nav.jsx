@@ -18,7 +18,7 @@ export default function Navbar() {
                                 <a className="nav-link nav-text-us" href="#">Look Doctors hussain</a>
                             </li>
                             <li className="nav-item nav-item-us">
-                                <a className="nav-link nav-text-us" href="#">Medicine</a>
+                                <a className="nav-link nav-text-us" href="#">drugs</a>
                             </li>
                             <li className="nav-item nav-item-us">
                                 <a className="nav-link nav-text-us" href="#">My News channel</a>
