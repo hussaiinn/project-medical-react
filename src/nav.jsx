@@ -15,13 +15,13 @@ export default function Navbar() {
                                 <a className="nav-link active nav-text-us" aria-current="page" href="#">Home</a>
                             </li>
                             <li className="nav-item nav-item-us">
-                                <a className="nav-link nav-text-us" href="#">Look Doctors hussain</a>
+                                <a className="nav-link nav-text-us" href="#">Find Doctors</a>
                             </li>
                             <li className="nav-item nav-item-us">
-                                <a className="nav-link nav-text-us" href="#">drugs</a>
+                                <a className="nav-link nav-text-us" href="#">Medicine</a>
                             </li>
                             <li className="nav-item nav-item-us">
-                                <a className="nav-link nav-text-us" href="#">My News channel</a>
+                                <a className="nav-link nav-text-us" href="#">About us</a>
                             </li>
                             <li className="nav-item nav-item-us">
                                 <a className="nav-link nav-text-us" href="#">Video Consultant</a>
